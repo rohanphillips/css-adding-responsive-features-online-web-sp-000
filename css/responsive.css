@@ -1,4 +1,4 @@
-@media screen and (max-width: 1100){
+@media screen and (min-width: 1100){
   .wrapper{
     width: 90%;
     color: red;
@@ -11,7 +11,7 @@
   }
 }
 
-@media screen and (max-width: 900){
+@media screen and (min-width: 900){
   body {
     font-size: 85%;
     color: red;
