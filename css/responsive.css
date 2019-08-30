@@ -10,7 +10,7 @@
   }
 }
 
-@media screen and (min-width: 900){
+@media only screen and (max-width: 900){
   body {
     font-size: 85%;
     color: red;
