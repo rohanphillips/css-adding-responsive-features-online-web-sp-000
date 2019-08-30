@@ -78,6 +78,9 @@
 }
 
 @media only screen and (max-width: 700px){
+  .wrapper h2 {
+    display: none;
+  }
   #navbar {
     display: none;
   }
