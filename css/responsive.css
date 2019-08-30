@@ -1,0 +1,11 @@
+@media only screen and (min-width: 1100){
+  .wrapper{
+    width: 90%;
+  }
+
+  #social{
+    position: absolute;
+    top: 82px;
+    right: 4px;
+  }
+}
