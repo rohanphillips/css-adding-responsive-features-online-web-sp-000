@@ -1,4 +1,4 @@
-@media screen and (min-width: 1100){
+@media screen and (max-width: 1100){
   .wrapper{
     width: 90%;
     color: red;
