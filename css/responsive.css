@@ -1,5 +1,4 @@
-
-@media only screen and (min-width: 1100){
+@media screen and (min-width: 1100){
   .wrapper{
     width: 90%;
   }
@@ -11,7 +10,7 @@
   }
 }
 
-@media (min-width: 900){
+@media screen and (min-width: 900){
   body {
     font-size: 85%;
     color: red;
@@ -35,7 +34,7 @@
   }
 }
 
-@media only screen and (min-width: 750){
+@media screen and (min-width: 750){
   #navbar nav a {
     font-size: 0.9em;
   }
