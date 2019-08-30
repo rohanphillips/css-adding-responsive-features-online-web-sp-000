@@ -1,7 +1,4 @@
-body {
-  font-size: 100%;
-  color: red;
-}
+
 @media only screen and (min-width: 1100){
   .wrapper{
     width: 90%;
